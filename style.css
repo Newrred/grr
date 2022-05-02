@@ -7,6 +7,11 @@
   font-size: 24px;
 }
 
+#jb{
+  height: 200px;
+  text-align: right;
+}
+
 #sb {
   font-weight: 900;
 }
